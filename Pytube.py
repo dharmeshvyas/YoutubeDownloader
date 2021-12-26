@@ -6,6 +6,7 @@ import check
 import imgToAscii
 
 
+os.system('clear')
 print(imgToAscii.PrintAscii("./asserts/background.png"))
 
 print("===================================================Welcome to Dv's Youtube Tools=======================================================")
